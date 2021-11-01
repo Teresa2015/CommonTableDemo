@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/TableRowWidth"
+    android:layout_height="@dimen/TableRowHeight"
+    android:background="@drawable/bg_customer_cell"
+    android:paddingTop="3dp"
+    android:paddingBottom="3dp"
+    android:paddingStart="2dp"
+    android:paddingEnd="2dp"
+    android:minWidth="@dimen/TableRowWidth">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCell"
+        android:gravity="center"
+        android:textColor="?attr/customTableEvenTextColor"
+        android:textSize="10sp"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customTableBgColor" format="reference|color" />
+    <attr name="customTableHeaderBgColor" format="reference|color" />
+    <attr name="customTableHeaderBorderColor" format="reference|color" />
+    <attr name="customTableHeaderTitleTextColor" format="reference|color" />
+    <attr name="customTableHeaderTopBgColor" format="reference|color" />
+    <attr name="customTableHeaderTextColor" format="reference|color" />
+    <attr name="customTableOddTextColor" format="reference|color" />
+    <attr name="customTableEvenTextColor" format="reference|color" />
+    <attr name="customTableOddBgColor" format="reference|color" />
+    <attr name="customTableEvenBgColor" format="reference|color" />
+    <attr name="customTableSubItemNegativeTextColor" format="reference|color" />
+    <attr name="customTableExplainIcon" format="reference|color" />
+    <attr name="customTableWeChatDownloadIcon" format="reference" />
+    <attr name="customTableItemBg1" format="reference|color" />
+
+
+</resources>

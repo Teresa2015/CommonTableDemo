@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="CustomTableViewLightStyle" parent="Theme.CommonTableViewStyle">
+       <item name="customTableBgColor">#FFFFFF</item>
+       <item name="customTableHeaderBgColor">#d4eefb</item>
+       <item name="customTableHeaderBorderColor">#b8d7e8</item>
+       <item name="customTableHeaderTitleTextColor">#333333</item>
+       <item name="customTableHeaderTopBgColor">#e6f7ff</item>
+       <item name="customTableHeaderTextColor">#333333</item>
+       <item name="customTableOddTextColor">#404040</item>
+       <item name="customTableEvenTextColor">#404040</item>
+       <item name="customTableOddBgColor">#FFFFFF</item>
+       <item name="customTableEvenBgColor">#F9FAFF</item>
+       <item name="customTableSubItemNegativeTextColor">#37C200</item>
+       <item name="customTableExplainIcon">@mipmap/icon_kpi_caliber</item>
+       <item name="customTableWeChatDownloadIcon">@mipmap/icon_wechat</item>
+       <item name="customTableItemBg1">#FFFFFF</item>
+   </style>
+
+    <style name="CustomTableViewDarkStyle" parent="Theme.CommonTableViewStyle">
+        <item name="customTableBgColor">#000000</item>
+        <item name="customTableHeaderBgColor">#2d2d2d</item>
+        <item name="customTableHeaderBorderColor">#101010</item>
+        <item name="customTableHeaderTitleTextColor">#e3e3e3</item>
+        <item name="customTableHeaderTopBgColor">#262626</item>
+        <item name="customTableHeaderTextColor">#cc7832</item>
+        <item name="customTableOddTextColor">#bebebe</item>
+        <item name="customTableEvenTextColor">#bebebe</item>
+        <item name="customTableOddBgColor">#202020</item>
+        <item name="customTableEvenBgColor">#282828</item>
+        <item name="customTableSubItemNegativeTextColor">#579242</item>
+        <item name="customTableExplainIcon">@mipmap/icon_kpi_caliber_night</item>
+        <item name="customTableWeChatDownloadIcon">@mipmap/icon_wechat</item>
+        <item name="customTableItemBg1">#424243</item>
+    </style>
+</resources>
